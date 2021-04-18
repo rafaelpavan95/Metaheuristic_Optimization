@@ -3,7 +3,7 @@
 Repositório para Modelos Metaheurísticos de Otimização Aplicados em Problemas Complexos.
 
 
-### + Computação Bio-Inspirada: Metaheurísticas para Resolução de Problemas Complexos de Otimização
+### Computação Bio-Inspirada: Metaheurísticas para Resolução de Problemas Complexos de Otimização
 
 - Otimização por Enxame de Partículas (Particle Swarm Optimization)
 - Otimização por Algoritmo Genético (Genetic Algorithm Optimization)
