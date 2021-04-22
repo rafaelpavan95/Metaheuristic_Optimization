@@ -11,6 +11,6 @@ Repositório para Modelos Metaheurísticos de Otimização Aplicados em Problema
 - Otimização por Colônia de Formigas (Ant Colony Optimization);
 - [Análise Estatística (PSO vs AG - Aplicados ao Problema de Despacho Econômico com Ponto de Carregamento de Válvula);](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/An%C3%A1lise_Estat%C3%ADstica_PSO_AG.ipynb)
 
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-49476d25d457.gif)
+![Alt Text](https://media.giphy.com/media/3CK25Z64vzHlYvYRrr/giphy.gif)
 
 ![Alt Text](https://media.giphy.com/media/AXR8rXGahv3zBmgBWf/giphy.gif)
