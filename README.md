@@ -13,4 +13,4 @@ Repositório para Modelos Metaheurísticos de Otimização Aplicados em Problema
 
 ![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-49476d25d457.gif)
 
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-ab185306662c.gif)
+![Alt Text](https://media.giphy.com/media/AXR8rXGahv3zBmgBWf/giphy.gif)
