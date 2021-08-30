@@ -5,6 +5,7 @@ Repositório para Modelos Metaheurísticos de Otimização Aplicados em Problema
 
 ### Computação Bio-Inspirada: Metaheurísticas para Resolução de Problemas Complexos de Otimização
 
+- [Nelder Mead (Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/Nelder_Mead.ipynb);
 - [Algoritmo Genético (Feature Selection)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/GA_Feature_Selection.ipynb);
 - [Evolução Diferencial (Função de Rosenbrock)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/ED_Rosenbrock.ipynb);
 - [Enxame de Partículas (Função de Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/PSO_Rastrigin.ipynb);
