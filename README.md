@@ -1,10 +1,10 @@
 # Metaheuristic_Optimization
 
-Repositório para Modelos Metaheurísticos de Otimização Aplicados em Problemas Complexos.
+Repositório para Modelos Metaheurísticos de Otimização Aplicados em Problemas Complexos. Inteligência Artificial Bio-Inspirada.
 
 
 ### Computação Bio-Inspirada: Metaheurísticas para Resolução de Problemas Complexos de Otimização
-
+- [Busca Gravitacional (Ackley)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/Gravitational_Search.ipynb);
 - [Nelder Mead (Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/Nelder_Mead.ipynb);
 - [Algoritmo Genético (Feature Selection)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/GA_Feature_Selection.ipynb);
 - [Evolução Diferencial (Função de Rosenbrock)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/ED_Rosenbrock.ipynb);
