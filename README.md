@@ -1,6 +1,6 @@
 # Metaheuristic_Optimization
 
-Repositório para Modelos Metaheurísticos de Otimização Aplicados em Problemas Complexos. Inteligência Artificial Bio-Inspirada.
+Repositório para Modelos Metaheurísticos aplicados em problemas complexos de otimização. A Inteligência Artificial Bio-Inspirada é utilizada em problemas do tipo não-convexos, não-diferenciáveis, inteiro-mistos, onde métodos exatos de otimização não possuem um bom desempenho ou são incapazes de funcionar.
 
 
 ### Computação Bio-Inspirada: Metaheurísticas para Resolução de Problemas Complexos de Otimização
