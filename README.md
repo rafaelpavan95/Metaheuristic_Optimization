@@ -1,9 +1,8 @@
 # Metaheuristic_Optimization
 
-Repositório para modelos de inteligência artificial bio-inspirada (computação evolutiva) aplicados em problemas complexos de otimização.
+Repositório para testes de modelos de computação evolutiva.
 
-
-### Computação Bio-Inspirada: Metaheurísticas para Resolução de Problemas Complexos de Otimização
+### Inteligência Computacional: Metaheurísticas para Resolução de Problemas Complexos de Otimização
 - [Busca Gravitacional (Ackley)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/Gravitational_Search.ipynb);
 - [Nelder Mead (Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/Nelder_Mead.ipynb);
 - [Algoritmo Genético (Feature Selection)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/GA_Feature_Selection.ipynb);
@@ -12,4 +11,4 @@ Repositório para modelos de inteligência artificial bio-inspirada (computaçã
 - [Recozimento Simulado (Função Ackley)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/SA_Ackley.ipynb);
 - [Otimização por Enxame de Partículas - Despacho Econômico com Ponto de Carregamento de Válvula](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/enxame_particulas.m);
 - [Otimização por Algoritmo Genético - Despacho Econômico com Ponto de Carregamento de Válvula](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/algoritmo_genetico.m);
-- [Análise Estatística (PSO vs AG - Aplicados ao Problema de Despacho Econômico com Ponto de Carregamento de Válvula);](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/An%C3%A1lise_Estat%C3%ADstica_PSO_AG.ipynb)
+
